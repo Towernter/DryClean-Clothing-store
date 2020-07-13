@@ -1,3 +1,5 @@
 # DryClean-Clothing-store
-This is my first project in C that is why its public. Laugh at it and enjoy. 
-Admin Password=dryclean
+>This is my first programming project, its here so you can laugh at my coding skills 
+#####Have fun!
+
+Admin_Password == **dryclean**
